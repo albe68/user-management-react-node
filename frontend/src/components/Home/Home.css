@@ -1,0 +1,23 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+  }
+ 
+  
+  .card{
+    width: 5000px;
+    text-align: center;
+    box-shadow: 2px 4px 10px rgb(247, 244, 244);
+  }
+  
+  .card-title {
+    padding: 60px;
+    color: red  ;
+    font-weight: bolder;
+    font-size: larger;
+  }
+  
